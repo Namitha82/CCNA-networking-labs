@@ -1,2 +1,23 @@
-# CCNA-networking-labs
-CCNA networking labs using Cisco Packet Tracer, covering DHCP, DNS, email servers, static routing, RIP v2, and other networking practical. Includes Packet Tracer files, screenshots, and configuration notes.
+**CCNA Networking Labs**
+
+Cisco Packet Tracer practice exercises completed during CCNA training.
+
+Topics Covered
+
+DHCP and DNS Server
+
+Email Server
+
+FTP Server
+
+VPN Configuration
+
+Wireless Access Point
+
+Static Routing
+
+RIP v2
+
+Network Configuration and Connectivity Testing
+
+Tool: Cisco Packet Tracer
